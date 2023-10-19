@@ -1,4 +1,4 @@
 # COMP-3270
-Introduction to Algorithms/n
-Dr. Vishalini Laguduva Ramnath/n
+Introduction to Algorithms<br />
+Dr. Vishalini Laguduva Ramnath<br />
 Auburn University
